@@ -1,6 +1,7 @@
 #Project Title
 MyToken
 
+#Solidity
 A simple ERC-20 token contract written in Solidity for creating and managing tokens on a blockchain.
 
 #Description
